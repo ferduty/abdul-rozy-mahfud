@@ -1,0 +1,9 @@
+db.collection.insert()
+db.user.insert(
+   [
+     { username: "ozimahfud",
+       password: "qwertyu009",
+       email : "abdulmahfud16050623018@mhs.unesa.ac.id",
+     }
+   ]
+)
